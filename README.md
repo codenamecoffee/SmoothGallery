@@ -44,15 +44,21 @@ SmoothGallery es una galería de imágenes desarrollada a medida para demostrar 
 
 ## 🧠 Potential Improvements / Posibles mejoras
 
-* Add zoom functionality on the main image  
-* Load images dynamically from a remote source or API  
-* Enhance vertical responsiveness   
+* (EN) Add zoom functionality on the main image
+* (ES) Agregar funcionalidad de zoom en la imagen central
+  
+* (EN) Load images dynamically from a remote source or API
+* (ES) Cargar imágenes en forma dinámica desde una fuente remota o API  
+
+* (EN) Enhance vertical responsiveness
+* (ES) Mejorar el comportamiento responsive en el eje vertical   
 
 <br>
 
 ## 📚 Credits / Créditos
 
-This project was fully designed and coded by me, without relying on any template or tutorial. The images used are from free-license sources.
+(EN) This project was fully designed and coded by me, without relying on any template or tutorial. The images used are from free-license sources.  
+(ES) Este proyecto fue completamente diseñado y codificado por mi, sin basarme en ningún template ni tutorial. Las imagenes cuentan con licencias de uso libre. 
 
 <br>
 
