@@ -61,7 +61,10 @@ SmoothGallery es una galería de imágenes desarrollada a medida para demostrar 
 
 ## 📚 Credits / Créditos
 
-(EN) This project was fully designed and coded by me, without relying on any template or tutorial. The images used are from free-license sources.  
+(EN) This project was fully designed and coded by me, without relying on any template or tutorial. The images used are from free-license sources.
+
+<br>
+
 (ES) Este proyecto fue completamente diseñado y codificado por mi, sin basarme en ningún template ni tutorial. Las imagenes cuentan con licencias de uso libre. 
 
 <br>
